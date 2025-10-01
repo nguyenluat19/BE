@@ -1,0 +1,134 @@
+[
+  {
+    "name": "iPhone 13 512GB",
+    "image": "https://clickbuy.com.vn/uploads/pro/apple-iphone-13-128gb-chinh-hang-vn-ahtml-3946-nssa-1024x1024-138922.jpg",
+    "description": "Điện thoại iPhone 13 chính hãng Apple, dung lượng 512GB, hiệu năng mạnh mẽ.",
+    "price": 36798219,
+    "priceGoc": 36798219,
+    "quantity": 14,
+    "discount": 0,
+    "rating": 4.7,
+    "detailImage": "https://clickbuy.com.vn/uploads/pro/2_51732.jpg"
+  },
+  {
+    "name": "iPhone 14 512GB",
+    "image": "https://clickbuy.com.vn/uploads/images/2022/12/avt-iphone-14-pro-max-space-black.png",
+    "description": "Điện thoại iPhone 14 chính hãng Apple, dung lượng 512GB, hiệu năng mạnh mẽ.",
+    "price": 28072641,
+    "priceGoc": 30513741,
+    "quantity": 10,
+    "discount": 8,
+    "rating": 4.7,
+    "detailImage": "https://clickbuy.com.vn/uploads/images/2022/12/avt-iphone-14-pro-max-gold.png"
+  },
+  {
+    "name": "iPhone 15 512GB",
+    "image": "https://clickbuy.com.vn/uploads/pro/iphone-15html-6150-aczx-1024x1024-197355.jpg",
+    "description": "Điện thoại iPhone 15 chính hãng Apple, dung lượng 512GB, hiệu năng mạnh mẽ.",
+    "price": 26161735,
+    "priceGoc": 30778512,
+    "quantity": 16,
+    "discount": 15,
+    "rating": 4.9,
+    "detailImage": "https://clickbuy.com.vn/uploads/pro/2_51655.jpg"
+  },
+  {
+    "name": "Galaxy S22 256GB",
+    "image": "https://clickbuy.com.vn/uploads/pro/samsung-galaxy-s22-ultra-5g-8gb-128gb-cu-dep-99-khong-zin-tang-may-lg-178415.png",
+    "description": "Điện thoại Galaxy S22 chính hãng Samsung, dung lượng 256GB, hiệu năng mạnh mẽ.",
+    "price": 32704544,
+    "priceGoc": 38475935,
+    "quantity": 24,
+    "discount": 15,
+    "rating": 3.9,
+    "detailImage": "https://clickbuy.com.vn/uploads/product-variant/samsung-galaxy-s22-ultra-5g-8gb-128gb-cu-99-green-178415-1894.png"
+  },
+  {
+    "name": "Galaxy S23 512GB",
+    "image": "https://clickbuy.com.vn/uploads/pro/samsung-galaxy-s23-ultra-5g-cu-dep-99-khong-zin-tang-may-lg-184324.png",
+    "description": "Điện thoại Galaxy S23 chính hãng Samsung, dung lượng 512GB, hiệu năng mạnh mẽ.",
+    "price": 11546633,
+    "priceGoc": 12550689,
+    "quantity": 26,
+    "discount": 8,
+    "rating": 3.9,
+    "detailImage": "https://clickbuy.com.vn/uploads/images/2023/02/e4770c0d-83cb-4617-a4c4-82f7d7002f13.png"
+  },
+  {
+    "name": "Galaxy S24 Ultra 512GB",
+    "image": "https://clickbuy.com.vn/uploads/pro/2_52709.jpg",
+    "description": "Điện thoại Galaxy S24 Ultra chính hãng Samsung, dung lượng 512GB, hiệu năng mạnh mẽ.",
+    "price": 11926155,
+    "priceGoc": 13251284,
+    "quantity": 18,
+    "discount": 10,
+    "rating": 4.2,
+    "detailImage": "https://clickbuy.com.vn/uploads/pro/2_52714.jpg"
+  },
+  {
+    "name": "Galaxy Z Flip5 256GB",
+    "image": "https://clickbuy.com.vn/uploads/pro/2_52909.jpg",
+    "description": "Điện thoại Galaxy Z Flip5 chính hãng Samsung, dung lượng 256GB, hiệu năng mạnh mẽ.",
+    "price": 20332033,
+    "priceGoc": 22100036,
+    "quantity": 42,
+    "discount": 8,
+    "rating": 4.2,
+    "detailImage": "https://clickbuy.com.vn/uploads/pro/2_52911.jpg"
+  },
+  {
+    "name": "Galaxy Z Fold5 512GB",
+    "image": "https://clickbuy.com.vn/uploads/pro/dan-man-hinh-galaxy-z-fold5-chinh-hang-lg-192681.png",
+    "description": "Điện thoại Galaxy Z Fold5 chính hãng Samsung, dung lượng 512GB, hiệu năng mạnh mẽ.",
+    "price": 29589718,
+    "priceGoc": 34811433,
+    "quantity": 100,
+    "discount": 15,
+    "rating": 4.6,
+    "detailImage": "https://clickbuy.com.vn/uploads/pro/dan-man-hinh-galaxy-z-fold5-chinh-hang-lg-192681.png"
+  },
+  {
+    "name": "Xiaomi 12 512GB",
+    "image": "https://clickbuy.com.vn/uploads/pro/xiaomi-12-8gb-256gb-chinh-hang-bao-hanh-18-thang-lg-180520.jpg",
+    "description": "Điện thoại Xiaomi 12 chính hãng Xiaomi, dung lượng 512GB, hiệu năng mạnh mẽ.",
+    "price": 13046915,
+    "priceGoc": 13733595,
+    "quantity": 95,
+    "discount": 5,
+    "rating": 4.0,
+    "detailImage": "https://clickbuy.com.vn/uploads/images/2023/02/3.jpg"
+  },
+  {
+    "name": "Xiaomi 13 Pro 128GB",
+    "image": "https://clickbuy.com.vn/uploads/pro/xiaomi-13-pro-12gb-256gb-chinh-hanghtml-9678-tchm-1024x1024-181943.jpg",
+    "description": "Điện thoại Xiaomi 13 Pro chính hãng Xiaomi, dung lượng 128GB, hiệu năng mạnh mẽ.",
+    "price": 21600639,
+    "priceGoc": 27000799,
+    "quantity": 13,
+    "discount": 20,
+    "rating": 4.1,
+    "detailImage": "https://clickbuy.com.vn/uploads/pro/xiaomi-13-pro-12gb-256gb-chinh-hanghtml-1029-181943-1024x1024-53848.jpg"
+  },
+  {
+    "name": "Xiaomi 14 512GB",
+    "image": "https://clickbuy.com.vn/uploads/pro/xiaomi-14t-pro-chinh-hang-4781-qhkb-1024x1024-217910.jpg",
+    "description": "Điện thoại Xiaomi 14 chính hãng Xiaomi, dung lượng 512GB, hiệu năng mạnh mẽ.",
+    "price": 24900157,
+    "priceGoc": 31125197,
+    "quantity": 88,
+    "discount": 20,
+    "rating": 4.7,
+    "detailImage": "https://clickbuy.com.vn/uploads/pro/2_52857.jpg"
+  },
+  {
+    "name": "Redmi Note 13 Pro 512GB",
+    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m8eavtmqfhvo2f.webp",
+    "description": "Điện thoại Redmi Note 13 Pro chính hãng Xiaomi, dung lượng 512GB, hiệu năng mạnh mẽ.",
+    "price": 28880140,
+    "priceGoc": 31391457,
+    "quantity": 36,
+    "discount": 8,
+    "rating": 5.0,
+    "detailImage": "https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m8eaw2bfraro5c.webp"
+  }
+]
